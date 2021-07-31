@@ -1,0 +1,32 @@
+{
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dayjs": "^1.10.6",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.13",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.7"
+  },
+  "name": "shop-liff-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/teerawat4/shop-liff-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/teerawat4/shop-liff-backend/issues"
+  },
+  "homepage": "https://gitlab.com/teerawat4/shop-liff-backend#readme",
+  "description": ""
+}
